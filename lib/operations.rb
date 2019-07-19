@@ -3,7 +3,7 @@ if speed < 40
     "unsafe"
   else
     "safe"
-elsif speed > 60
+if speed > 60
   "unsafe"
 else
   "safe"
